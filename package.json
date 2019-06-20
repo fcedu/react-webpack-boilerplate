@@ -10,7 +10,7 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js,jsx,css,md}": [
+    "*.{js,jsx,css}": [
       "prettier --write --single-quote",
       "eslint --fix",
       "git add"
