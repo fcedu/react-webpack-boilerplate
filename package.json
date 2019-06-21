@@ -1,5 +1,5 @@
 {
-  "name": "minimal-webpack-react",
+  "name": "fcedu-react-webpack-boilerplate",
   "version": "0.0.1",
   "description": "丰橙学院 React webpack boilerplate",
   "main": "index.js",
