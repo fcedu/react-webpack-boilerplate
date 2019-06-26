@@ -52,7 +52,6 @@ webpack
 - [Lodash](https://github.com/lodash/lodash)
 - [Enzyme](http://airbnb.io/enzyme/)
 - [Eslint](https://github.com/eslint/eslint/)
-- [Prettier](https://github.com/prettier/prettier)
 - [Style](https://github.com/webpack-contrib/style-loader) & [CSS Loader](https://github.com/webpack-contrib/css-loader) & [SASS-loader](https://github.com/webpack-contrib/sass-loader)
 - [CSS modules](https://github.com/css-modules/css-modules)
 - [Browsers list](https://github.com/browserslist/browserslist)
