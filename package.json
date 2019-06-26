@@ -25,7 +25,6 @@
   "dependencies": {
     "@babel/plugin-transform-react-constant-elements": "7.2.0",
     "@babel/plugin-transform-react-inline-elements": "7.2.0",
-    "@fcedu/fc-terminal-billboard": "^0.0.1",
     "babel-plugin-transform-react-pure-class-to-function": "1.0.1",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "lodash": "4.17.11",
@@ -55,6 +54,7 @@
     "@babel/register": "7.4.4",
     "@babel/runtime": "7.4.5",
     "@fcedu/eslint-config-fcedu": "^0.0.1",
+    "@fcedu/fc-terminal-billboard": "^0.0.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.2",
     "babel-loader": "8.0.6",
